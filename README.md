@@ -15,3 +15,4 @@ Given an array of integers nums and an integer target, return indices of the two
 Given a positive integer millis, write an asynchronous function that sleeps for millis milliseconds. It can resolve any value.
 
 # Qus 5 :- 
+Given an integer array nums, a reducer function fn, and an initial value init, return the final result obtained by executing the fn function on each element of the array, sequentially, passing in the return value from the calculation on the preceding element.
