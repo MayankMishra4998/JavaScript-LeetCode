@@ -13,3 +13,5 @@ Given an array of integers nums and an integer target, return indices of the two
 
 # Qus 4 :- 
 Given a positive integer millis, write an asynchronous function that sleeps for millis milliseconds. It can resolve any value.
+
+# Qus 5 :- 
