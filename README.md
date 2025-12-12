@@ -16,3 +16,6 @@ Given a positive integer millis, write an asynchronous function that sleeps for 
 
 # Qus 5 :- 
 Given an integer array nums, a reducer function fn, and an initial value init, return the final result obtained by executing the fn function on each element of the array, sequentially, passing in the return value from the calculation on the preceding element.
+
+# Qus 6 :- 
+Given an array of functions [f1, f2, f3, ..., fn], return a new function fn that is the function composition of the array of functions.
