@@ -19,3 +19,10 @@ Given an integer array nums, a reducer function fn, and an initial value init, r
 
 # Qus 6 :- 
 Given an array of functions [f1, f2, f3, ..., fn], return a new function fn that is the function composition of the array of functions.
+
+# Qus 7:- 
+Given an integer array arr and a filtering function fn, return a filtered array filteredArr.
+
+The fn function takes one or two arguments:
+=> arr[i] - number from the arr
+=> i - index of arr[i]
