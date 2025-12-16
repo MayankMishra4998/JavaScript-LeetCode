@@ -26,3 +26,6 @@ Given an integer array arr and a filtering function fn, return a filtered array 
 The fn function takes one or two arguments:
 => arr[i] - number from the arr
 => i - index of arr[i]
+
+# Qua 8 :-
+Given an integer array arr and a mapping function fn, return a new array with a transformation applied to each element.
