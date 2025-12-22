@@ -29,3 +29,9 @@ The fn function takes one or two arguments:
 
 # Qua 8 :-
 Given an integer array arr and a mapping function fn, return a new array with a transformation applied to each element.
+
+
+# Mid LKevel Type's Question's 
+
+# Qus 9 :-
+
