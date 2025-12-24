@@ -44,3 +44,8 @@ set(key, value, duration): accepts an integer key, an integer value, and a durat
 get(key): if an un-expired key exists, it should return the associated value. Otherwise it should return -1.
 
 count(): returns the count of un-expired keys.
+
+# Qus 10 :- 
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
