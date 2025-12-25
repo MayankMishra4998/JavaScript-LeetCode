@@ -51,3 +51,5 @@ You are given two non-empty linked lists representing two non-negative integers.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 # Qus 11 :- 
+Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
