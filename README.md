@@ -30,16 +30,6 @@ The fn function takes one or two arguments:
 # Qua 8 :-
 Given an integer array arr and a mapping function fn, return a new array with a transformation applied to each element.
 
-# Qus 9 :- 
-Write a function createCounter. It should accept an initial integer init. It should return an object with three functions.
-
-The three functions are:
-
-increment() increases the current value by 1 and then returns it.
-decrement() reduces the current value by 1 and then returns it.
-reset() sets the current value to init and then returns it.
- 
-
 # Mid Level Type's Question's 
 
 # Qus 9 :-
@@ -64,4 +54,5 @@ Write a function to find the longest common prefix string amongst an array of st
 If there is no common prefix, return an empty string "".
 
 # Qus 12 :- 
+
 
