@@ -64,4 +64,4 @@ sum accepts two integers a and b and returns a + b. Assume that if a value has a
 fib accepts a single integer n and returns 1 if n <= 1 or fib(n - 1) + fib(n - 2) otherwise.
 factorial accepts a single integer n and returns 1 if n <= 1 or factorial(n - 1) * n otherwise.
  
-
+# Qus 13 :- 
