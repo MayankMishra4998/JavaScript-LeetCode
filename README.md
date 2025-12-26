@@ -65,3 +65,8 @@ fib accepts a single integer n and returns 1 if n <= 1 or fib(n - 1) + fib(n - 2
 factorial accepts a single integer n and returns 1 if n <= 1 or factorial(n - 1) * n otherwise.
  
 # Qus 13 :- 
+Given a function fn, return a new function that is identical to the original function except that it ensures fn is called at most once.
+
+The first time the returned function is called, it should return the same result as fn.
+Every subsequent time it is called, it should return undefined.
+ 
