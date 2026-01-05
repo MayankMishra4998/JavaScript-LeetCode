@@ -102,3 +102,5 @@ const [cancel, promise] = cancellable(tasks());
 setTimeout(cancel, 50);
 promise.catch(console.log); // logs "Cancelled" at t=50ms
 If instead cancel() was not called or was called after t=100ms, the promise would have resolved 5.
+
+# Qus 17 :- 
