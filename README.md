@@ -135,5 +135,7 @@ A flattened array is a version of that array with some or all of the sub-arrays 
 Please solve it without the built-in Array.flat method.
 
 
+# Qus 20 :- 
+
 
 
