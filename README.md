@@ -142,7 +142,9 @@ A multi-dimensional array is a recursive data structure that contains both integ
 
 inorder traversal iterates over each array from left to right, yielding any integers it encounters or applying inorder traversal to any arrays it encounters.
 
- 
+
+# Qus 21 :- 
+
 
 
 
