@@ -144,6 +144,8 @@ inorder traversal iterates over each array from left to right, yielding any inte
 
 
 # Qus 21 :- 
+Write a function createHelloWorld. It should return a new function that always returns "Hello World".
+
 
 
 
