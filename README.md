@@ -146,4 +146,8 @@ inorder traversal iterates over each array from left to right, yielding any inte
 # Qus 21 :- 
 Write a function createHelloWorld. It should return a new function that always returns "Hello World".
 
+# Qus 22 :- 
 
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
