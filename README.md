@@ -160,6 +160,7 @@ A chunked array contains the original elements in arr, but consists of subarrays
 Please solve it without using lodash's _.chunk function.
 
 
+
 # Qus 24 :- 
 
 Create a class ArrayWrapper that accepts an array of integers in its constructor. This class should have two features:
